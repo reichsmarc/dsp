@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I am going to use Vim as my preferred terminal editor. From what I read it is not as easy to pick up as nano but still has most of the functionality of emacs without such a steep learning curve.
 
 --
 
@@ -89,6 +89,11 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will also be using Vim as my graphical editor. I have customized it to set
+>> the textwidth and tab/shift widths. I am experimenting with different
+>> colorschemes but have not been able to get Github schemes to work. Some
+>> useful shortcuts are ":w + ENTER" to save, ":q" to exit, "i" to enter INSERT
+>> mode and ESC to return to COMMAND mode.
+>> shortcuts are ":w + ENTER" to 
 
  
