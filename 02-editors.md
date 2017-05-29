@@ -92,10 +92,9 @@ What graphical editor will you use? How did you make your decision? What are som
 >> I will also be using Vim as my graphical editor. I have customized it to set
 >> the textwidth and tab/shift widths. I am experimenting with different
 >> colorschemes but have not been able to get Github schemes to work, so I set
->> it to the default 'morning' in the dotfile. Some useful shortcuts are 
->> :w + ENTER to save, :q to exit, i to enter INSERT mode, ESC to return to 
->> COMMAND mode, v to enter VISUAL mode, gg to go to the start of a file, 
->> G to go to the end of a file, w to move forward a word, and b to move back
->> a word.
+>> it to the default 'morning' in the dotfile. Some useful shortcuts are :w + 
+>> ENTER to save, :q to exit, i to enter INSERT mode, ESC to return to COMMAND
+>> mode, v to enter VISUAL mode, gg to go to the start of a file, G to go to
+>> the end of a file, w to move forward a word, and b to move back a word.
 
  
