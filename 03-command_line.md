@@ -82,7 +82,7 @@ What does `xargs` do? Give an example of how to use it.
 > > to the command line in batches.
 > >
 > > Example: 'echo 1 2 3 4' prints '1 2 3 4' on one line  
-> >          'echo 1 2 3 4 | xargs -n 2' would execute the command in batches  
-> >           of two, so that '1 2' and '3 4' appear on different lines.
+> >          'echo 1 2 3 4 | xargs -n 2' would execute the command in batches
+> >          of two, so that '1 2' and '3 4' appear on different lines.
  
 
