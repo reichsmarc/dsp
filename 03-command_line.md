@@ -19,7 +19,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> >#Cheat Sheet:#
+> >Cheat Sheet:
 > > * show current working directory path: pwd
 > > * move up one directory level: cd ../
 > > * switch to directory at same level: cd../directory
@@ -48,7 +48,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
  
-> >#Answers:#
+> >Answers:
 > > * 'ls' lists files and directories in current directory
 > > * 'ls - a' does the same as 'ls', including hidden files
 > > * 'ls -l' does the same as 'ls' with long format filenames and permissions
@@ -63,7 +63,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> >#Favorites:#
+> >Favorites:
 > > 1. '1' - displays each file on a separate line
 > > 1. 'u' - lists files by date accessed
 > > 1. 'd' - displays only directories
