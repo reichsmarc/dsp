@@ -1,5 +1,8 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
+#### **Problem**
+*Exercise 2.4 Using the variable totalwgt_lb, investigate whether first babies are lighter or heavier than others. Compute Cohen’s d to quantify the difference between the groups. How does it compare to the difference in pregnancy length?*
+
 #### **Explanation**
 Cohen's D between first babies and others for the variable *weight* is approximately -0.089, which means that the first baby weighs very slightly less than later babies on average. For the variable for *length of pregnancy* Cohen's D is approximately 0.029.
 
