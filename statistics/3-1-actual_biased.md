@@ -10,7 +10,7 @@
 
 *Plot the actual and biased distributions, and compute their means. As a starting place, you can use chap03ex.ipynb.*
 
-#### **Answer & Explanation**
+#### **Answer**
 Actual PMF:
 ```
       0: 0.46617820227659301 
