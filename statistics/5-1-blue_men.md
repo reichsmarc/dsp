@@ -33,5 +33,5 @@ print('6\'1" is', round(inchestocm(73),2), 'cm')
 
 result = cdf(maxht)-cdf(minht)
 print("The percentage of the population is", result)
-# The percentage of the population eligible for the Blue Man Group is 0.342746837631
 ```
+#### The percentage of the population eligible for the Blue Man Group is 0.342746837631
