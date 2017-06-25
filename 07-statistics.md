@@ -101,7 +101,11 @@ p = 5/11
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> In Bayesian statistics, probabilities are related to our knowledge of an event. An experiment begins with an
+>> assumed distribution ("prior") which is updated after data is collected to arrive at a new distribution ("posterior").
+>> Parameters in Bayesian experiments are unknown and described in terms of probabilities.
+>> Frequentist statistics regards probabilities as related to the *frequencies* of outcomes, but does not assign a 
+>> probability to these outcomes nor does it consider prior information. Data is considered a repeatable random sample with >> fixed parameters, and experiment results are expressed as a confidence interval.
 
 ---
 
